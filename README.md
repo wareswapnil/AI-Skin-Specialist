@@ -16,13 +16,12 @@ Under the hood, it:
 
 **Main interface** — patient input (voice, image, video) alongside the doctor response panel:
 
-![AI Skin Specialist main interface](<img width="1522" height="720" alt="Screenshot 2026-09-13 005651" src="https://github.com/user-attachments/assets/d5098bb2-3d05-4e00-a278-9f4ac8747ccf" />
-)
+![AI Skin Specialist main interface]  <img width="1522" height="720" alt="Screenshot 2026-09-13 005651" src="https://github.com/user-attachments/assets/ccc0d933-ae85-4c4c-998c-035cd53b1230" />
+
 
 **Analysis in progress** — transcript, doctor's guidance, and generated voice response:
 
-![Doctor's guidance and voice response](<img width="1497" height="716" alt="Screenshot 2026-09-13 005711" src="https://github.com/user-attachments/assets/13187fec-5720-4c5b-8ae3-2ce8d0bb3309" />
-)
+![Doctor's guidance and voice response]  <img width="1497" height="716" alt="Screenshot 2026-09-13 005711" src="https://github.com/user-attachments/assets/8175532b-dab0-47a3-afc1-369a9571be93" />
 
 ---
 
